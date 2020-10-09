@@ -2,7 +2,8 @@
   <div id="app">
     <div id="nav">
       <router-link to="/">home</router-link> |
-      <router-link to="/about">About</router-link>
+      #dsd 
+      <router-link to="/about">111</router-link> 
     </div>
     <router-view/>
   </div>
